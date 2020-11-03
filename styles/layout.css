@@ -73,6 +73,7 @@ body:nth-child(1) > section:nth-child(3) > div:nth-child(7) {
 
 @media (min-width:425px) {
   body {
+    /* max-width: 767px; */
     width: 90%;
     margin: 0 auto;
   }
