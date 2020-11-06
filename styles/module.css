@@ -1,0 +1,79 @@
+/* colors for each box background go here */
+
+@media (min-width: 480px) {
+  #a-section {
+    background-color: rgb(209, 134, 36);
+  }
+
+  #b-section {
+    background-color: aqua;
+  }
+
+  #c {
+    background-color: burlywood;
+  }
+
+  #d {
+    background-color: cadetblue;
+  }
+
+  #e {
+    background-color: cornflowerblue;
+  }
+
+  #f {
+    background-color: darkblue;
+  }
+
+  #g {
+    background-color: darkolivegreen;
+  }
+
+  #h {
+    background-color: darkorchid;
+  }
+
+  #i-section {
+    background-color: darksalmon;
+  }
+}
+
+@media (min-width: 768px) {
+
+  #a-section {
+    background-color: darkseagreen;
+  }
+
+  #b-section {
+    background-color: deepskyblue;
+  }
+
+  #c {
+    background-color: darkgoldenrod;
+  }
+
+  #d {
+    background-color: darkkhaki;
+  }
+
+  #e {
+    background-color: darkorange;
+  }
+
+  #f {
+    background-color: darkorchid;
+  }
+
+  #g {
+    background-color: darksalmon;
+  }
+
+  #h {
+    background-color: darkslategray;
+  }
+
+  #i-section {
+    background-color: deeppink;
+  }
+  
+}
