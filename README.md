@@ -2,7 +2,8 @@
 
 ## Contributors:
 - Help from Ameilia Valdes
-- Help from JP as well
+- Help from JP Jones
+- Help from Skyler
 - Resources: 
 - https://www.w3schools.com/cssref/css_selectors.asp
 - https://www.w3schools.com/cssref/sel_nth-child.asp
